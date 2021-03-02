@@ -2,7 +2,7 @@
 
 [在线访问](https://sml.xx-xx-xx.vercel.app/)
 
-<img src="https://gitee.com/xx-xx-xx/images/raw/master/img/4ed917f85479a7fa6b5f4b6674ff646.jpg" style="zoom:5%;" />
+<img src="https://gitee.com/xx-xx-xx/images/raw/master/img/4ed917f85479a7fa6b5f4b6674ff646.jpg" style="zoom:0.05%;" />
 
 ## 魔改步骤
 
