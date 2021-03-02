@@ -1,10 +1,12 @@
-## 合成小红人
+# 合成小红人
 
 [在线访问](https://sml.xx-xx-xx.vercel.app/)
 
-<img src="https://gitee.com/xx-xx-xx/images/raw/master/img/4ed917f85479a7fa6b5f4b6674ff646.jpg" style="zoom:30%;" />
+<img src="https://gitee.com/xx-xx-xx/images/raw/master/img/4ed917f85479a7fa6b5f4b6674ff646.jpg" style="zoom:10%;" />
 
-### 魔改步骤
+## 魔改步骤
+
+### 教程
 
 [魔改详细教程](https://cloud.tencent.com/developer/article/1782433)
 
@@ -51,7 +53,7 @@ cocos creator引擎[官方文档](https://docs.cocos.com/creator/manual/zh/)
 
 3. 得到网址
 
-### BUGs
+## BUGs
 
 1. ~~小红人照片对应错误因为少了一个~~
 3. ~~广告部分仅替换底色仅视觉上看不出来其实还是可以点击进去的~~
