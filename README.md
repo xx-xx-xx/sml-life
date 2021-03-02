@@ -2,7 +2,7 @@
 
 [在线访问](https://sml.xx-xx-xx.vercel.app/)
 
-<img src="https://gitee.com/xx-xx-xx/images/raw/master/img/4ed917f85479a7fa6b5f4b6674ff646.jpg" style="zoom:0.05%;" />
+<img src="https://gitee.com/xx-xx-xx/images/raw/master/img/4ed917f85479a7fa6b5f4b6674ff646.jpg" width="200;" />
 
 ## 魔改步骤
 
@@ -14,7 +14,7 @@
 
 [替换素材表](https://docs.qq.com/sheet/DS0d2VVVJYmpvZ0pZ?tab=BB08J2&_t=1612024933646)
 
-<img src="https://gitee.com/xx-xx-xx/images/raw/master/img/20210302143533.png" style="zoom:40%;" />
+<img src="https://gitee.com/xx-xx-xx/images/raw/master/img/20210302143533.png"/>
 
 cocos creator引擎[官方文档](https://docs.cocos.com/creator/manual/zh/)
 
